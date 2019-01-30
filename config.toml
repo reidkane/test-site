@@ -4,4 +4,5 @@ title = "My New Hugo Site"
 
 theme = "hyde"
 
+publishDir = "reidkane.github.io"
 
