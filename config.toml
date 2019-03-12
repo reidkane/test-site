@@ -1,9 +1,0 @@
-baseURL = "https://reidkane.github.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-
-theme = "pristine"
-
-publishDir = "reidkane.github.io"
-
-
